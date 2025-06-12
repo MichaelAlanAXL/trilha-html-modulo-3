@@ -46,3 +46,9 @@ td:nth-child(n+3) {
 figure {
     text-align: center;
 }
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
